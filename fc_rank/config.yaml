@@ -1,0 +1,138 @@
+FC_URL:
+    '/lodestone/freecompany/9228579323923971004/member/'
+
+LOG_FILENAME:
+    'fc_levels.log'
+
+LEVEL_EXP_ARR:
+    - 0
+    - 0
+    - 300
+    - 900
+    - 2000
+    - 3700
+    - 6000
+    - 10200
+    - 16200
+    - 23550
+    - 33480
+    - 45280
+    - 60880
+    - 80480
+    - 104180
+    - 130580
+    - 161080
+    - 196480
+    - 236980
+    - 282680
+    - 333680
+    - 390280
+    - 454180
+    - 525580
+    - 604680
+    - 691780
+    - 786980
+    - 896780
+    - 1021580
+    - 1161780
+    - 1317680
+    - 1480180
+    - 1656080
+    - 1845680
+    - 2049180
+    - 2267080
+    - 2499400
+    - 2749300
+    - 3017100
+    - 3303300
+    - 3608200
+    - 3932200
+    - 4272400
+    - 4629200
+    - 5002900
+    - 5393700
+    - 5801900
+    - 6239500
+    - 6707000
+    - 7205000
+    - 7734000
+
+LEVEL_EXP_HW:
+    - 8598000
+    - 9656400
+    - 10923600
+    - 12478800
+    - 14350800
+    - 16568400
+    - 19160400
+    - 22155600
+    - 25582800
+    - 29470800
+
+LEVEL_EXP_SB:
+    - 33917800
+    - 38790800
+    - 44106800
+    - 49915800
+    - 56279800
+    - 63274800
+    - 70996800
+    - 79571800
+    - 89164800
+    - 99990800
+
+ORDERED_CLASS_ABBR:
+    - GLA
+    - MRD
+    - DRK
+    - PGL
+    - LNC
+    - ROG
+    - SAM
+    - CNJ
+    - SCH
+    - AST
+    - ARC
+    - MCH
+    - THM
+    - ACN
+    - RDM
+    - CRP
+    - BSM
+    - ARM
+    - GSM
+    - LTW
+    - WVR
+    - ALC
+    - CUL
+    - MIN
+    - BTN
+    - FSH
+
+ORDERED_CLASS_NAMES:
+    - Gladiator
+    - Marauder
+    - Dark Knight
+    - Pugilist
+    - Lancer
+    - Rogue
+    - Samurai
+    - Conjurer
+    - Scholar
+    - Astrologian
+    - Archer
+    - Machinist
+    - Thaumaturge
+    - Arcanist
+    - Red Mage
+    - Carpenter
+    - Blacksmith
+    - Armorer
+    - Goldsmith
+    - Leatherworker
+    - Weaver
+    - Alchemist
+    - Culinarian
+    - Miner
+    - Botanist
+    - Fisher
