@@ -46,6 +46,7 @@ Week 4
         NM
             Chest
             Bracelet
+	    Waist*
         Tome
             Ring
 Week 5
@@ -54,12 +55,20 @@ Week 5
         Lens*
         Spring*
         Spring*
+    Gear
+        NM
+	    Leg*
 Week 6
     Alpha NM
         Pedal*
         Lens*
         Crank*
         Crank*
+    Gear
+        NM
+	    Feet*
+	    Arm*
+	    Head*
 Week 7
     Alpha NM
         Bolt*
@@ -67,5 +76,8 @@ Week 7
         ***
         Shaft*
     Gear
+        NM
+	    Acc
+	    Acc
         Tome
             Weapon?
